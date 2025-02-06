@@ -1,16 +1,22 @@
+  
+
 ## Hi there 👋
 
-<!--
-**graphgeo02/graphgeo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdullahi Abdulkadir, a passionate Front-end Web Developer.
 
-Here are some ideas to get you started:
+*What I'm up to:*
+🔭 Currently building innovative projects
+🌱 Enhancing my skills in Front-end Web Development at Altschool Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Collaboration & Help:*
+👯 Open to collaborations on projects, internships, and hackathons
+🤔 Seeking guidance on advanced Web Development topics
+
+*Let's connect:*
+💬 Ask me about Front-end Development, coding best practices, or my projects
+📫 Reach me: [https://profile-card-lac-pi.vercel.app/]
+
+*Personal touch:*
+😄 Pronouns: Mr Abdullahi Abdulkadir
+⚡ Fun fact: I write code every day
+
